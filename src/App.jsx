@@ -1,10 +1,10 @@
-import UserList from './components/UserList'
+import UserDetail from './components/UserDetail'
 
 function App() {
 
   return (
     <>
-      <UserList/>
+      <UserDetail/>
     </>
   )
 }
