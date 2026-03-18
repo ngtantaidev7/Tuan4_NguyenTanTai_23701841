@@ -1,10 +1,10 @@
-import UserDetail from './components/UserDetail'
+import PostSearch from './components/PostSearch'
 
 function App() {
 
   return (
     <>
-      <UserDetail/>
+      <PostSearch/>
     </>
   )
 }
