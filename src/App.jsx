@@ -1,10 +1,11 @@
 import PostSearch from './components/PostSearch'
+import TodoCRUD from './components/TodoCRUD'
 
 function App() {
 
   return (
     <>
-      <PostSearch/>
+      <TodoCRUD/>
     </>
   )
 }
